@@ -12,5 +12,7 @@ public class Git {
         System.out.println("pull test");
         System.out.println("gitee test");
         System.out.println("123");
+        System.out.println("pull test");
+        
     }
 }
